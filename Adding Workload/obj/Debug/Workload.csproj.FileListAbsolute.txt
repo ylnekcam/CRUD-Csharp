@@ -1,0 +1,10 @@
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\bin\Debug\Workload.exe.config
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\bin\Debug\Workload.exe
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\bin\Debug\Workload.pdb
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\bin\Debug\System.Data.SQLite.dll
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\obj\Debug\Workload.csprojResolveAssemblyReference.cache
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\obj\Debug\Adding_Workload.MainForm.resources
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\obj\Debug\Workload.csproj.GenerateResource.Cache
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\obj\Debug\Workload.exe
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\obj\Debug\Workload.pdb
+C:\Users\CIASI\Documents\SharpDevelop Projects\前處理Workload\Adding Workload\obj\Debug\Adding_Workload.Form1.resources
